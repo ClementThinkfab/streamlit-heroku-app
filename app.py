@@ -16,6 +16,8 @@ PAGES = {
 # CTRL + C: arreter 
 ######  DEPLOY STREAMLIT ON WEB  #####
 # https://medium.com/analytics-vidhya/how-to-deploy-streamlit-web-app-on-heroku-1235d827f1f
+###### Problèmes de lancement avec "streamlir run app.py" ######
+# SUPPRIMER   C:/users/{username}/.streamlit/config.toml  
 ###### RQ ######
 # use sidebar  st.sidebar.radio    (incorporation de l'élément dans le menu)
 # CONNEXION : https://blog.jcharistech.com/2020/05/30/how-to-add-a-login-section-to-streamlit-blog-app/
